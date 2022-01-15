@@ -1,7 +1,7 @@
 {
   "name": "chatdemo",
   "version": "1.0.0",
-  "description": "Simple Chat Application using socket.io",
+  "description": "A sSimple Chat Application using express and socket.io",
   "main": "server.js",
   "scripts": {
     "start": "node server",
